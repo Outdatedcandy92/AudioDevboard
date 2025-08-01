@@ -27,3 +27,12 @@ This project is an **Audio Player Devboard** designed for audio playback applica
 
 ## PCB
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e5ceb08c0db1686d8e0947eb693d4bf32bcc2801_image.png)
+
+
+## BOM
+
+| NAME               | QUANTITY | PRICE                       |
+| ------------------ | -------- | --------------------------- |
+| [Componenets](./src/production/BOM.csv) (lcsc)  | Look at BOM.csv in production folder for detailed breakdown     | 41.82(29.56+12.26 shipping) |
+| PCB                | 5        | $5                          |
+| **Total**          |          | $47                         |
