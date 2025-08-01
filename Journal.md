@@ -25,6 +25,9 @@ I decided to go with the TPS63900 as its very efficent (90% efficiency) and has 
 
 I also started the schematic for the project.
 
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c4ba2df711e81e636ae78556154f4a8a98f5077c_20250731_210844.jpg)
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6032fe583b139caa401920e12a1c57cc72d7a399_image.png)
 
 ## Time Spent: 5 Hours
 
@@ -35,8 +38,8 @@ I decided to go with a raspberry pico sized board for the layout. This however s
 
 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c512baa8132ba258b6b58868bd7aeee14d886fac_image.png)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6032fe583b139caa401920e12a1c57cc72d7a399_image.png)
 
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6032fe583b139caa401920e12a1c57cc72d7a399_image.png)
 
 My schematic and PCB so far
 
